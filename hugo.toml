@@ -1,6 +1,6 @@
 baseURL = "https://yigithanbalci.github.io/"
 languageCode = "en-us"
-title = "Yigithan Balci"
+title = "Yigithan Kadir Balci"
 theme = "hugo-coder"
 defaultcontentlanguage = "en"
 
@@ -16,10 +16,10 @@ style = "github-dark"
 
 # googleAnalytics = "UA-XXXXXX-X"                             # Optional, replace with your Google Analytics ID
 [params]
-author = "Yigithan Balci"
-description = "My personal site"
+author = "Yigithan Kadir Balci"
+description = "Portfoli"
 info = "Senior Software Engineer@Accenture"
-keywords = "blog,developer,personal"
+keywords = "blog,developer,personal,portfolio"
 avatarurl = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 
@@ -49,27 +49,37 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/yigithanbalci/"
 [[params.social]]
 name = "Gitlab"
 icon = "fa-brands fa-gitlab fa-2x"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "https://gitlab.com/yigithanbalci/"
 [[params.social]]
 name = "Twitter"
 icon = "fa-brands fa-x-twitter fa-2x"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/yigithankadir/"
+[[params.social]]
+name = "YouTube"
+icon = "fa-brands fa-youtube fa-2x"
+weight = 3
+url = "https://www.youtube.com/@yeetkhan"
+[[params.social]]
+name = "Medium"
+icon = "fa-brands fa-medium fa-2x"
+weight = 3
+url = "https://medium.com/@yigithanbalci"
 
 # Menu links
 [[menu.main]]
 name = "Blog"
 weight = 1
-url = "posts/"
-[[menu.main]]
-name = "About"
-weight = 2
-url = "about/"
+url = "https://medium.com/@yigithanbalci"
+# [[menu.main]]
+# name = "About"
+# weight = 2
+# url = "about/"
 
 [caches]
 [caches.images]
