@@ -17,7 +17,7 @@ style = "github-dark"
 # googleAnalytics = "UA-XXXXXX-X"                             # Optional, replace with your Google Analytics ID
 [params]
 author = "Yigithan Kadir Balci"
-description = "Portfoli"
+description = "Personal Page"
 info = "Senior Software Engineer@Accenture"
 keywords = "blog,developer,personal,portfolio"
 avatarurl = "images/avatar.jpg"
@@ -50,6 +50,11 @@ name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/yigithanbalci/"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 1
+url = "https://www.linkedin.com/in/yigithanbalci/"
 [[params.social]]
 name = "Gitlab"
 icon = "fa-brands fa-gitlab fa-2x"
