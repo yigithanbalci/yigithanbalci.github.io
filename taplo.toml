@@ -1,0 +1,3 @@
+# taplo.toml
+[formatting]
+indent_tables = true
