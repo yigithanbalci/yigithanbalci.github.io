@@ -61,6 +61,11 @@ author = "authors"
   weight = 2
   url = "https://gitlab.com/yigithanbalci/"
   [[params.social]]
+  name = "StackOverflow"
+  icon = "fa-brands fa-stack-overflow fa-2x"
+  weight = 3
+  url = "https://stackoverflow.com/users/13057510/yigithankadir"
+  [[params.social]]
   name = "Twitter"
   icon = "fa-brands fa-x-twitter fa-2x"
   weight = 3
